@@ -1,7 +1,7 @@
 # Dự án Traffic Detection
 
 ## 📁 File Python
-- bai11.py
+- bai12.py
 - yolo11n.pt
 - yolo8n.pt
 ## 🎬 Video
